@@ -1,5 +1,7 @@
 # Proyectos del curso completo de iOS 12 de JB
 
+hola soy Paula
+
 [Ver el curso completo en Udemy](https://www.udemy.com/curso-completo-de-ios-12-de-cero-a-experto/)
 
 [Ver el curso completo en Udemy](https://www.udemy.com/curso-completo-de-ios-12-de-cero-a-experto/)
