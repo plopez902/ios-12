@@ -2,6 +2,9 @@
 
 [Ver el curso completo en Udemy](https://www.udemy.com/curso-completo-de-ios-12-de-cero-a-experto/)
 
+[Ver el curso completo en Udemy](https://www.udemy.com/curso-completo-de-ios-12-de-cero-a-experto/)
+
+
 ## Proyecto 1 - I am Rich
 Clon de la app de los 999$ (https://en.wikipedia.org/wiki/I_Am_Rich) que marcó un antes y un después en la forma de vender las apps en la App Store. 
 
